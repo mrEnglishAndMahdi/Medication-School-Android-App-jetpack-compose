@@ -135,7 +135,7 @@ fun ItemCardShowerForSearchHistoryScreen(
                     }) {
                         Icon(
                             imageVector = Icons.Default.Share,
-                            contentDescription = "ShareIcon",
+                            contentDescription = "ShareTheDrugIcon",
                             tint = Color(0xFF3F51B5)
                         )
                     }
